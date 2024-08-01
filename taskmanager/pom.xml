@@ -18,7 +18,7 @@
 		<junit.version>4.13.1</junit.version>
 		<jsf.version>2.2.11</jsf.version>
 		<javax.servlet.version>3.0.1</javax.servlet.version>
-		<bootstrap.version>3.3.5</bootstrap.version>
+		<bootstrap.version>3.4.1</bootstrap.version>
 		<jquery-ui.version>1.11.4</jquery-ui.version>
 		<flot.version>0.8.3</flot.version>
 		<codemirror.version>5.5</codemirror.version>
